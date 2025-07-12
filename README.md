@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 
 <script>
-        // প্রথমে যে লেখাটি দেখাতে চান
-        document.getElementById('myText').innerText = "এটি আমার প্রথম লেখা।";
+      
+        document.getElementById('myText').innerText = "fast।";
 
-        // 3 সেকেন্ড (3000 মিলিসেকেন্ড) অপেক্ষা করার পর দ্বিতীয় লেখাটি দেখাবে
+        
         setTimeout(function() {
-            document.getElementById('myText').innerText = "এটি আমার দ্বিতীয় লেখা।";
-        }, 3000); // 3000 মিলিসেকেন্ড = 3 সেকেন্ড
+            document.getElementById('myText').innerText = "send ।";
+        }, 3000); 
     </script>
 
 
