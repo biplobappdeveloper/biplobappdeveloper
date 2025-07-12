@@ -4,15 +4,15 @@
 <h3 align="center">Passionate Android App developer from Bangladesh</h3>
 
 <description>
-  Experienced Android App Developer
+ <b> Experienced Android App Developer </b>
 I am an experienced Android App Developer dedicated to creating modern and highly functional mobile applications for your business. I strongly believe that a well-crafted Android app can significantly elevate your business and help you connect with your target users effectively.
 
-My Expertise in Android App Development:
+ <b>My Expertise in Android App Development: </b>
 I possess comprehensive knowledge and hands-on experience in every phase of Android app development. From planning and design to development, rigorous testing, and successful publishing, I handle the entire process independently. I am capable of developing a wide range of Android applications, including:
 
-E-commerce Apps: Secure and user-friendly applications for online shopping.
+<b> E-commerce Apps:</b> Secure and user-friendly applications for online shopping.
 
-Business Management Apps: Custom solutions to streamline your organization's daily operations.
+<b> Business Management Apps:</b> Custom solutions to streamline your organization's daily operations.
 
 Educational Apps: Interactive applications to enhance the learning experience.
 
@@ -62,7 +62,7 @@ If you are in need of a new Android app, or wish to add new features or enhance 
 
 </description>
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <img align="right" alt="Coding" width="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biplobappdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="biplobappdeveloper" /> </p>
