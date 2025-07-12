@@ -16,8 +16,19 @@ Here are some ideas to get you started:
 -->
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 
+<script>
+        // প্রথমে যে লেখাটি দেখাতে চান
+        document.getElementById('myText').innerText = "এটি আমার প্রথম লেখা।";
+
+        // 3 সেকেন্ড (3000 মিলিসেকেন্ড) অপেক্ষা করার পর দ্বিতীয় লেখাটি দেখাবে
+        setTimeout(function() {
+            document.getElementById('myText').innerText = "এটি আমার দ্বিতীয় লেখা।";
+        }, 3000); // 3000 মিলিসেকেন্ড = 3 সেকেন্ড
+    </script>
+
+
 <h1 align="center">Hi 👋, I'm Biplob Hasan</h1>
-<h3 align="center">Passionate Android App & Laravel Website developer from Bangladesh</h3>
+<h3 align="center">Passionate Android App developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biplobappdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="biplobappdeveloper" /> </p>
