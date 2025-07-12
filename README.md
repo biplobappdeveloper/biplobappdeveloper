@@ -1,34 +1,9 @@
 ## Hi there 👋
 
-<!--
-**biplobappdeveloper/biplobappdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
-
-<script>
-      
-        document.getElementById('myText').innerText = "fast।";
-
-        
-        setTimeout(function() {
-            document.getElementById('myText').innerText = "send ।";
-        }, 3000); 
-    </script>
-
-
 <h1 align="center">Hi 👋, I'm Biplob Hasan</h1>
 <h3 align="center">Passionate Android App developer from Bangladesh</h3>
+
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <img align="right" alt="Coding" width="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biplobappdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="biplobappdeveloper" /> </p>
