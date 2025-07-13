@@ -6,11 +6,11 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 <description>
- <b> Experienced Android App Developer </b>
+ <b> Experienced Android App Developer </b> <br>
 I am an experienced Android App Developer dedicated to creating modern and highly functional mobile applications for your business. I strongly believe that a well-crafted Android app can significantly elevate your business and help you connect with your target users effectively.
 
 <br> <br>
- <b>My Expertise in Android App Development: </b>
+ <b>My Expertise in Android App Development: </b> <br>
 I possess comprehensive knowledge and hands-on experience in every phase of Android app development. From planning and design to development, rigorous testing, and successful publishing, I handle the entire process independently. I am capable of developing a wide range of Android applications, including:
 
 <b> E-commerce Apps:</b> Secure and user-friendly applications for online shopping.
@@ -36,7 +36,7 @@ I possess comprehensive knowledge and hands-on experience in every phase of Andr
 <b> Responsive:</b> Functions flawlessly across various Android device screen sizes.
 <br> <br>
 
-<b> My Specialized Skills & Technical Knowledge:</b>
+<b> My Specialized Skills & Technical Knowledge:</b> <br>
 I don't just build apps; I leverage modern technologies to make them more powerful and efficient:
 
 <b> Firebase Integration:</b> I enhance app robustness and reliability by utilizing Firebase services like real-time databases, authentication, Cloud Messaging (push notifications), and crash reporting.
@@ -49,7 +49,7 @@ I don't just build apps; I leverage modern technologies to make them more powerf
 
 <b> Latest Technologies: </b> I stay continuously updated with the newest tools, libraries, and best practices in Android development and apply them to my work.
 <br> <br>
-<b> Why Choose to Work With Me?</b>
+<b> Why Choose to Work With Me?</b> <br>
 <b> Complete Solutions:</b>  I can single-handedly manage everything required for app creation, from start to finish.
 
 <b> Quality Work:</b>  I am committed to delivering top-notch quality work that will meet your expectations and impress your users.
